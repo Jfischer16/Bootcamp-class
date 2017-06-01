@@ -1,0 +1,30 @@
+/*
+h1 {
+    color: #54206e;
+    
+}
+*/
+
+h1 {
+    color: rgba(0,0,0, .2);
+/*
+    border-color: purple;
+    border-width: 5px;
+    border-style: solid;
+*/
+    
+    border: 2px solid rgb(255,100,80);
+}
+
+h4 {
+    background: rgb(255,100,80);
+}
+
+body {
+    background: pink;
+/*
+    background: url(https://s-media-cache-ak0.pinimg.com/originals/7f/ca/af/7fcaaf291b79949ea8c2ebe24fbf5115.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+*/
+}
